@@ -1,6 +1,6 @@
 # personality_tester
 
-A new Flutter project.
+A simple app to deterine your personality type, uses Flutter.
 
 ## Getting Started
 
